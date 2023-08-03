@@ -1,2 +1,2 @@
 # Portfolio_Page
-Created a personalized portfolio page utilizing HTML5 and vanilla CSS. Features include a profile introduction, education background, project displays, and a footer section.
+I created a personalized portfolio page featuring my profile, educational background, and project highlights. Using HTML5 and vanilla CSS, the page includes an "About Me" section and a well-designed footer. It serves as a comprehensive showcase of my skills, achievements, and experiences.
